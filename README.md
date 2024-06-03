@@ -1,5 +1,11 @@
 # LeetCode 75
 
+<p align="center">
+  <kbd>
+    <img src="https://i.imgur.com/JmuDIOi.png" alt="banner_image">
+  </kbd>
+</p>
+
 This repository contains answers to the 75 LeetCode questions widely acknowledged as sufficient preparation for any junior-level coding interview.
 
 Each subject folder contains raw answers in Python and an explanation folder. The explanation folder provides a line-by-line breakdown of each solution, generated using GitHub Copilot.
